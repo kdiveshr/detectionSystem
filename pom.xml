@@ -27,6 +27,8 @@
 		<url/>
 	</scm>
 	<properties>
+		<!-- Reproducibility study fix, playbook step 2: pin archive timestamps to the pinned commit time. -->
+		<project.build.outputTimestamp>1794886851</project.build.outputTimestamp>
 		<java.version>17</java.version>
         <jjwt.version>0.12.6</jjwt.version>
 	</properties>
